@@ -1,0 +1,18 @@
+{
+  "firstName": "Muhammad Agam",
+  "lastName": "Nasywaan",
+  "gender": "Male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jalan Kisar No. 46",
+    "city": "Banyumas",
+    "state": "Center Java"
+  },
+  "courses": [
+    { "code": "SE0001", "name": "Konstruksi Perangkat Lunak" },
+    { "code": "SE0002", "name": "Tata Tulis Ilmiah" },
+    { "code": "SE0003", "name": "Kecerdasan Buatan" },
+    { "code": "SE0004", "name": "Proyek Tingkat II" },
+    { "code": "SE0005", "name": "Design Thinking" }
+  ]
+}
