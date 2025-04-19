@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "code": "SE0001",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "SE0002",
+      "name": "Manajemen Konfigurasi Evolusi Perangkat Lunak"
+    },
+    {
+      "code": "SE0003",
+      "name": "Proses Perangkat Lunak"
+    },
+    {
+      "code": "SE0004",
+      "name": "Design Thinking"
+    },
+    {
+      "code": "SE0005",
+      "name": "Tata Tulis Ilmiah"
+    },
+    {
+      "code": "SE0006",
+      "name": "Proyek Tingkat II"
+    },
+    {
+      "code": "SE0007",
+      "name": "Kecerdasan Buatan"
+    }
+  ]
+}
