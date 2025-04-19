@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "firstName": "Muhammad Imam",
+      "lastName": "Al Amin",
+      "gender": "Male",
+      "age": 20,
+      "nim": "2211104077"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Chairul Anam",
+      "gender": "Male",
+      "age": 19,
+      "nim": "2211104072"
+    },
+    {
+      "firstName": "Rosyid Mukti",
+      "lastName": "Wibowo",
+      "gender": "Male",
+      "age": 21,
+      "nim": "2211104076"
+    }
+  ]
+}
