@@ -1,0 +1,13 @@
+{
+  "lang": "id",
+  "transfer": {
+    "threshold": 10000000,
+    "low_fee": 5000,
+    "high_fee": 12000
+  },
+  "methods": ["QRIS", "Mobile Banking", "ATM", "Internet Banking"],
+  "confirmation": {
+    "en": "confirm",
+    "id": "konfirmasi"
+  }
+}
