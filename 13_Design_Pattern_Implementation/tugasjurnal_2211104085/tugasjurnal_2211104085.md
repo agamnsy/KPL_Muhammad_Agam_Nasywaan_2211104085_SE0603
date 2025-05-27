@@ -4,7 +4,7 @@
 
 #### NIM : 2211104085 / SE-06-03
 
-## Tugas Pendahuluan
+## Tugas Jurnal
 
 ### MENJELASKAN DESIGN PATTERN SINGLETON
 
