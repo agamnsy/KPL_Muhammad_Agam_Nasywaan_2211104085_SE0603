@@ -1,0 +1,17 @@
+[
+  {
+    "username": "admin",
+    "password": "19dcb6d97c90947b9a020dfb5dae78e2567c41bb6cedae6351bc6901cf214f89",
+    "salt": "29ef3c4efa60d43baff1059397d106a0"
+  },
+  {
+    "username": "agamnsy",
+    "password": "bd0a4c0c13da7da532c7f12713fabf330a467e4b664c9ef021f9753a832c3c0c",
+    "salt": "c44ebb062a5b65d684eb75c2575c0577"
+  },
+  {
+    "username": "alfara",
+    "password": "1393f2e167f1ad12f1fed91bcbb676ab7b7d00e06abc22c78c2a369b48c7ee02",
+    "salt": "02c27722b51729055d356d3e452a9ee8"
+  }
+]
